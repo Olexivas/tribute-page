@@ -1,0 +1,22 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "freeCodeCamp certification project",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass ./scss/main.scss ./style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olexivas/tribute-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olexivas/tribute-page/issues"
+  },
+  "homepage": "https://github.com/Olexivas/tribute-page#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
